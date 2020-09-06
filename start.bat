@@ -1,0 +1,1 @@
+java -jar ./openjdk/win/bin/Lavalink.jar
